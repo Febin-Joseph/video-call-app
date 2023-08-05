@@ -1,7 +1,14 @@
 node_modules/
+ios/Pods/
+ios/Podfile.lock
+android/build/
+android/app/build/
 .expo/
+.expo-shared/
+.env
 dist/
 npm-debug.*
+
 *.jks
 *.p8
 *.p12
@@ -12,3 +19,19 @@ web-build/
 
 # macOS
 .DS_Store
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+dependencies/
+dist/
+
+# Optional: Ignore sensitive information like config files or API keys
+config.js
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
