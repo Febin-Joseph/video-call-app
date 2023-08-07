@@ -5,6 +5,9 @@
       "bundler": "metro"
     },
     "name": "client",
-    "slug": "client"
+    "slug": "client",
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
