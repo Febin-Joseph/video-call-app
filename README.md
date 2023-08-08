@@ -7,3 +7,4 @@ using google and github and video calling functionality and much more...
 
 ## 🚀 QR CODE FOR RUNNING APP
 
+![Screenshot 2023-08-08 173610](https://github.com/Febin-Joseph/video-call-app/assets/128711401/e1a816e9-116a-4801-bcd8-66134e9fe241)
