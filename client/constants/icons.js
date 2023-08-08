@@ -1,4 +1,4 @@
-import copy from "../assets/icons/copy.png";
+import copy from "../assets/icons/copy.png"
 import backbtn from "../assets/icons/backbtn.png";
 import downarrow from "../assets/icons/downarrow.png";
 import GithubLogo from "../assets/icons/Github-logo.png";
@@ -24,5 +24,4 @@ export default {
     premium,
     round,
     zoomifyLogo,
-
 }
